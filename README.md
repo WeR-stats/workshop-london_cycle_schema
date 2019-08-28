@@ -11,7 +11,7 @@
    - **Santander Cycles data supplied at (time) on (date) by Transport for London**
    - **Contains OS data © Crown copyright and database right [year]**
    - **Contains Royal Mail data © Royal Mail copyright and database right [year]**
-   - **Contains National Statistics data © Crown copyright and database right [year] **
+   - **Contains National Statistics data © Crown copyright and database right [year]**
  - Use the Santander Cycles [logo]() to represent the scheme on all applications and services
  - Use the Santander Cycles [pushpin icon](http://tfl.gov.uk/cdn/static/cms/images/promos/cycle-hire-pushpin-icon.gif) to indicate the location of docking stations
 
