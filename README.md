@@ -5,7 +5,7 @@
    - Live data at [TFL API](https://api.tfl.gov.uk/bikepoint)
    - [List of all current bike stations](https://tfl.gov.uk/tfl/syndication/feeds/cycle-hire/livecyclehireupdates.xml)
  - Postcodes, Geographic Lookups and Boundaries at the [ONS Geoportal](https://geoportal.statistics.gov.uk/). See [this Github repository](https://github.com/lvalnegri/projects-geography_uk) for the necessary *R* code.
- - Weather Data at the [ASOS National Weather Service](https://w2.weather.gov/climate/). See the CRAN [riem](https://cran.r-project.org/package=riem) package. 
+ - Weather Data at the [ASOS National Weather Service](https://w2.weather.gov/climate/). See the CRAN [riem](https://cran.r-project.org/package=riem) package. See also [this Github repository](https://github.com/lvalnegri/projects-wd_weather/tree/master/ASOS) for some additional *R* code.
 
  - Copyright Texts to display if data are used in public : 
    - **Santander Cycles data supplied at (time) on (date) by Transport for London**
